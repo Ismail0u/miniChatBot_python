@@ -1,0 +1,204 @@
+2025-04-05 12:28:15 - Vous : bonjour
+2025-04-05 12:28:15 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-05 12:28:59 - Vous : quel est ton nom?
+2025-04-05 12:28:59 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-05 12:29:00 - Vous : quel est ton nom?
+2025-04-05 12:29:00 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-05 12:29:14 - Vous : comment ça va ?
+2025-04-05 12:29:14 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-05 12:29:32 - Vous : tu parles ?
+2025-04-05 12:29:32 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-05 12:30:05 - Vous : tu parles?
+2025-04-05 12:30:05 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-05 12:30:22 - Vous : demandes mon nom ?
+2025-04-05 12:30:22 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-05 12:30:38 - Vous : à demain
+2025-04-05 12:30:38 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-05 12:31:05 - Vous : dis moi quelsques choses 
+2025-04-05 12:31:05 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 12:31:05 - Vous : dis moi quelsques choses 
+2025-04-05 12:31:05 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:14:43 - Vous : bonjour
+2025-04-05 23:14:43 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-05 23:14:52 - Vous : bonsoir
+2025-04-05 23:14:52 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:14:52 - Vous : bonsoir
+2025-04-05 23:14:52 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:22:11 - Vous : bonjour
+2025-04-05 23:22:11 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-05 23:22:23 - Vous : je suis bien
+2025-04-05 23:22:23 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-05 23:22:35 - Vous : mon nom
+2025-04-05 23:22:35 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-05 23:22:47 - Vous : nom
+2025-04-05 23:22:47 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-05 23:23:09 - Vous : je suis bonjour
+2025-04-05 23:23:09 - Bot : Bonjour !
+
+2025-04-05 23:23:29 - Vous : je suis bonsoir
+2025-04-05 23:23:29 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:23:47 - Vous : bonjour je suis heureux
+2025-04-05 23:23:47 - Bot : Bonjour !
+
+2025-04-05 23:24:53 - Vous : tu peux faire quoi ?
+2025-04-05 23:24:53 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-05 23:25:19 - Vous : tu es bien faisant de quoi ?
+2025-04-05 23:25:19 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-05 23:25:46 - Vous : tu peux me dire bonjour ?
+2025-04-05 23:25:46 - Bot : Bonjour !
+
+2025-04-05 23:26:01 - Vous : tu peux me dire bonsoir?
+2025-04-05 23:26:01 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-05 23:27:07 - Vous : je vais bien et toi ?
+2025-04-05 23:27:07 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-05 23:27:26 - Vous : je vais bien et toi comment vas tu ?
+2025-04-05 23:27:26 - Bot : Toujours en forme pour discuter !
+
+2025-04-05 23:27:57 - Vous : comment allez vous ?
+2025-04-05 23:27:57 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-05 23:28:18 - Vous : bon j'ai sommeil
+2025-04-05 23:28:18 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-05 23:28:43 - Vous : je suis fatigué , à plus bro 
+2025-04-05 23:28:43 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:29:03 - Vous : je suis fatigué, au revoir jeune homme 
+2025-04-05 23:29:03 - Bot : À bientôt !
+
+2025-04-05 23:29:22 - Vous : à plus ,
+2025-04-05 23:29:22 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:29:29 - Vous : à plustard
+2025-04-05 23:29:29 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:29:41 - Vous : à demain
+2025-04-05 23:29:41 - Bot : Peux-tu reformuler ?
+
+2025-04-05 23:30:34 - Vous : good morning
+2025-04-05 23:30:34 - Bot : Désolé, je ne comprends pas.
+
+2025-04-05 23:30:48 - Vous : how are you ?
+2025-04-05 23:30:48 - Bot : Peux-tu reformuler ?
+
+2025-04-06 10:53:24 - Vous : bonjour
+2025-04-06 10:53:24 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-06 10:53:24 - Vous : bonjour
+2025-04-06 10:53:24 - Bot : Bonjour !
+
+2025-04-06 10:53:56 - Vous : bonjour
+2025-04-06 10:53:56 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-06 10:53:56 - Vous : bonjour
+2025-04-06 10:53:56 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-06 10:55:16 - Vous : bonjour
+2025-04-06 10:55:16 - Bot : Bonjour !
+
+2025-04-06 10:55:16 - Vous : bonjour
+2025-04-06 10:55:16 - Bot : Bonjour !
+
+2025-04-06 10:55:58 - Vous : bonjour
+2025-04-06 10:55:58 - Bot : Bonjour !
+
+2025-04-07 12:07:33 - Vous : bonjour
+2025-04-07 12:07:33 - Bot : Bonjour !
+
+2025-04-07 12:07:42 - Vous : bonjou
+2025-04-07 12:07:42 - Bot : Désolé, je ne comprends pas.
+
+2025-04-07 12:07:42 - Vous : bonjou
+2025-04-07 12:07:42 - Bot : Désolé, je ne comprends pas.
+
+2025-04-07 12:07:58 - Vous : comment vas tu 
+2025-04-07 12:07:58 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-07 12:11:48 - Vous : bonjour
+2025-04-07 12:11:48 - Bot : Bonjour !
+
+2025-04-07 12:11:59 - Vous : how are you ?
+2025-04-07 12:11:59 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-07 12:12:10 - Vous : comment ça va 
+2025-04-07 12:12:10 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-07 12:16:59 - Vous : bonjour
+2025-04-07 12:16:59 - Bot : Bonjour !
+
+2025-04-07 12:17:03 - Vous : comment ça va 
+2025-04-07 12:17:03 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-07 12:21:42 - Vous : bonjour
+2025-04-07 12:21:42 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 12:21:42 - Vous : bonjour
+2025-04-07 12:21:42 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 12:21:50 - Vous : bonjou
+2025-04-07 12:21:50 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-07 12:21:50 - Vous : bonjou
+2025-04-07 12:21:50 - Bot : Désolé, je ne comprends pas.
+
+2025-04-07 12:24:39 - Vous : bonjour
+2025-04-07 12:24:39 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 12:24:47 - Vous : comment ça va 
+2025-04-07 12:24:47 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-07 12:24:56 - Vous : how are you ?
+2025-04-07 12:24:56 - Bot : Peux-tu reformuler ?
+
+2025-04-07 12:26:32 - Vous : bonjour
+2025-04-07 12:26:32 - Bot : Bonjour !
+
+2025-04-07 12:26:36 - Vous : comment ça va 
+2025-04-07 12:26:36 - Bot : Toujours en forme pour discuter !
+
+2025-04-07 12:39:25 - Vous : bonjour
+2025-04-07 12:39:25 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 12:53:09 - Vous : bonjour
+2025-04-07 12:53:09 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 12:53:24 - Vous : bonjour
+2025-04-07 12:53:24 - Bot : Bonjour !
+
+2025-04-07 16:16:01 - Vous : bonjour
+2025-04-07 16:16:01 - Bot : Bonjour !
+
+2025-04-07 16:20:37 - Vous : bonjour
+2025-04-07 16:20:37 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-07 16:20:52 - Vous : comment ça va 
+2025-04-07 16:20:52 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-07 16:21:13 - Vous : je suis nom
+2025-04-07 16:21:13 - Bot : Je suis Botito, ton assistant intelligent.
+
+2025-04-07 16:21:27 - Vous : et toi
+2025-04-07 16:21:27 - Bot : Je ne sais pas répondre à ça.
+
