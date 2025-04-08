@@ -5,7 +5,6 @@
   "que peux-tu faire": ["Je peux discuter avec toi et répondre à tes questions simples."],
   "au revoir": ["À bientôt !", "Bonne journée !"],
 
-  // Technologies & Sciences
   "qu'est-ce qu'un ordinateur": ["Un ordinateur est une machine électronique qui traite des données selon des instructions appelées programmes."],
   "qu'est-ce qu'une base de données": ["Une base de données est un système organisé pour stocker, gérer et récupérer des informations facilement."],
   "qu'est-ce que la programmation": ["La programmation est le processus d'écriture d'instructions pour qu'un ordinateur puisse exécuter une tâche."],
@@ -14,7 +13,6 @@
   "qu'est-ce que le CSS": ["Le CSS (Cascading Style Sheets) est utilisé pour styliser les pages web en modifiant la mise en page, les couleurs, etc."],
   "qu'est-ce que Python": ["Python est un langage de programmation populaire, connu pour sa simplicité et sa lisibilité."],
 
-  // Santé & Biologie
   "qu'est-ce qu'un virus informatique": ["Un virus informatique est un programme malveillant qui s'installe sur un ordinateur sans le consentement de l'utilisateur et peut endommager des fichiers ou voler des informations."],
   "qu'est-ce qu'un virus": ["Un virus est un agent infectieux microscopique qui peut causer des maladies chez les humains, les animaux et les plantes."],
   "qu'est-ce qu'une bactérie": ["Une bactérie est un micro-organisme unicellulaire qui peut être bénéfique ou pathogène pour les humains."],
@@ -22,7 +20,7 @@
   "qu'est-ce qu'un antibiotique": ["Un antibiotique est un médicament qui combat les infections bactériennes."],
   "qu'est-ce que le cancer": ["Le cancer est une maladie caractérisée par une croissance incontrôlée de cellules anormales."],
 
-  // Géographie
+
   "quels sont les continents": ["Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe, Océanie."],
   "quelle est la plus haute montagne": ["Le Mont Everest est la plus haute montagne du monde."],
   "quel est le plus grand océan": ["L'océan Pacifique est le plus vaste."],
@@ -30,7 +28,7 @@
   "quel est le plus long fleuve": ["Le Nil est considéré comme le plus long fleuve."],
   "quelles sont les plus grandes villes d'Afrique": ["Lagos, Le Caire, Kinshasa et Johannesburg sont parmi les plus grandes."],
 
-  /* Histoire*/
+
   "qui a découvert l'Amérique": ["Christophe Colomb en 1492."],
   "quand a eu lieu la Révolution française": ["Entre 1789 et 1799."],
   "qui a écrit la Déclaration d'indépendance des États-Unis": ["Thomas Jefferson."],
@@ -38,40 +36,38 @@
   "qui a construit la Grande Muraille de Chine": ["Principalement la dynastie Ming."],
   "qui a découvert la pénicilline": ["Alexander Fleming en 1928."],
 
-  // Physique & Cosmologie
   "qu'est-ce que la relativité générale": ["Une théorie d'Albert Einstein sur la gravitation."],
   "qu'est-ce que la mécanique quantique": ["Une branche de la physique étudiant les phénomènes à l’échelle atomique."],
   "qu'est-ce que le Big Bang": ["La théorie expliquant l'origine de l'univers."],
   "qu'est-ce que la théorie des cordes": ["Une théorie qui modélise les particules comme des cordes vibrantes."],
   "qu'est-ce que l'énergie sombre": ["Une force hypothétique responsable de l'expansion accélérée de l'univers."],
 
-  // Intelligence Artificielle
+
   "qu'est-ce que l'intelligence artificielle": ["La capacité des machines à imiter l'intelligence humaine."],
   "qu'est-ce que le machine learning": ["Une branche de l'IA basée sur l'apprentissage automatique."],
   "qu'est-ce que le deep learning": ["Une méthode d'apprentissage profond basée sur les réseaux de neurones."],
   "qu'est-ce que le traitement du langage naturel": ["Une branche de l’IA qui permet aux machines de comprendre le langage humain."],
 
-  // Économie & Politique
+
   "qu'est-ce que l'inflation": ["Une hausse générale et durable des prix."],
   "qu'est-ce que le PIB": ["La valeur totale des biens et services produits dans un pays."],
   "qu'est-ce que la récession": ["Une période de baisse de l’activité économique."],
   "qu'est-ce que la mondialisation": ["L'intégration des économies à l'échelle mondiale."],
   "qu'est-ce que le capitalisme": ["Un système économique basé sur la propriété privée et le marché libre."],
 
-  // Art & Culture
+
   "qu'est-ce que la Renaissance": ["Une période de renouveau artistique et culturel en Europe."],
   "qui a peint la Joconde": ["Léonard de Vinci."],
   "qui a écrit Hamlet": ["William Shakespeare."],
   "qu'est-ce que le baroque": ["Un style artistique européen exubérant du XVIIe siècle."],
   "qu'est-ce que le surréalisme": ["Un mouvement artistique basé sur l’inconscient."],
 
-  // Environnement
+
   "qu'est-ce que le réchauffement climatique": ["Une hausse progressive de la température de la planète."],
   "qu'est-ce que la biodiversité": ["La diversité des formes de vie sur Terre."],
   "qu'est-ce que la déforestation": ["La destruction des forêts à grande échelle."],
   "qu'est-ce que le recyclage": ["Transformer des déchets en nouveaux produits."],
-  "qu'est-ce que l'énergie renouvelable": ["L’énergie provenant de sources naturelles inépuisables."]
-
+  "qu'est-ce que l'énergie renouvelable": ["L’énergie provenant de sources naturelles inépuisables."],
 
   "qu'est-ce qu'une fraction": ["Une fraction est une manière de représenter une partie d'un tout, sous la forme a/b où a est le numérateur et b le dénominateur."],
   "qu'est-ce qu'un nombre premier": ["Un nombre premier est un entier naturel supérieur à 1 qui n’a que deux diviseurs : 1 et lui-même."],
@@ -119,7 +115,7 @@
   "qu'est-ce que le SQL": ["Le SQL est un langage utilisé pour interagir avec les bases de données relationnelles."],
   "qu'est-ce qu'un serveur": ["Un serveur est un ordinateur ou un logiciel qui fournit des services à d'autres ordinateurs appelés clients."],
 
-  // Niger
+
   "qu'est-ce que le Niger": ["Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium."],
   "quelle est la capitale du Niger": ["La capitale du Niger est Niamey, située sur les rives du fleuve Niger."],
   "quelles sont les langues parlées au Niger": ["La langue officielle est le français, mais plusieurs langues nationales sont parlées, comme le haoussa, le zarma, le peul, le kanouri et le tamasheq."],
@@ -143,7 +139,6 @@
   "quelles sont les activités économiques du niger": ["L’économie du Niger repose sur l’agriculture, l’élevage, l’uranium, le commerce et le secteur informel."],
   "quels sont les défis du niger": ["Le Niger fait face à des défis comme la sécurité, la pauvreté, le changement climatique, l’accès à l’éducation et à la santé."],
 
-  //TOGO
   "qu'est-ce que le Togo": ["Le Togo est un pays d’Afrique de l’Ouest situé entre le Ghana et le Bénin, avec une façade sur l’océan Atlantique."],
   "quelle est la capitale du Togo": ["La capitale du Togo est Lomé."],
   "quelles langues sont parlées au Togo": ["Le français est la langue officielle, mais l’éwé, le kabyè et d'autres langues locales sont couramment parlées."],
@@ -152,7 +147,7 @@
   "quels sont les plats togolais": ["Le 'fufu', le 'akoumé', le 'gari', le 'abobo', et le 'pâte noire' sont des plats courants au Togo."],
   "quels sont les sites touristiques au Togo": ["Le marché de Lomé, le lac Togo, Kpalimé, les cascades de Womé et les montagnes de Kloto sont très visités."],
 
-  //ISLAM
+
   "qu'est-ce que l'islam": ["L’islam est une religion monothéiste révélée au prophète Muhammad (PSL) au 7e siècle, fondée sur le Coran et les enseignements du prophète."],
   "qu'est-ce que le tawhid": ["Le Tawhid est l’unicité d’Allah dans sa seigneurie, ses noms et attributs, et son droit exclusif d’être adoré."],
   "qu'est-ce que le Coran": ["Le Coran est le livre sacré de l’islam, révélé par Allah au prophète Muhammad (PSL) à travers l’ange Jibril."],
@@ -170,8 +165,6 @@
   "qu'est-ce que le djihad": ["Le djihad signifie littéralement 'effort'. Il peut être spirituel (contre soi-même) ou militaire dans certaines circonstances encadrées."],
   "qu'est-ce que la sunna du vendredi": ["La prière du vendredi (joumou’a) remplace la prière de dhuhr pour les hommes musulmans. Elle comprend un sermon (khotba)."],
 
-
-  //AES
   "qu'est-ce que l'AES": ["L’Alliance des États du Sahel est une coalition entre le Mali, le Niger et le Burkina Faso visant à renforcer leur coopération militaire, économique et sécuritaire."],
   "quels sont les objectifs de l'AES": ["Les objectifs de l'AES incluent la sécurité commune, le développement économique intégré et l'affirmation de leur souveraineté."],
   "quels pays font partie de l'AES": ["Le Mali, le Burkina Faso et le Niger sont les membres actuels de l'AES."],

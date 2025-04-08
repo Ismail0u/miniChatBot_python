@@ -202,3 +202,132 @@
 2025-04-07 16:21:27 - Vous : et toi
 2025-04-07 16:21:27 - Bot : Je ne sais pas répondre à ça.
 
+2025-04-08 01:33:27 - Vous : bonjour
+2025-04-08 01:33:27 - Bot : Bonjour !
+
+2025-04-08 01:33:45 - Vous : comment ça va 
+2025-04-08 01:33:45 - Bot : Toujours en forme pour discuter !
+
+2025-04-08 01:33:53 - Vous : bonjour
+2025-04-08 01:33:53 - Bot : Bonjour !
+
+2025-04-08 01:34:17 - Vous : qu'est ce que le Niger ?
+2025-04-08 01:34:17 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:34:50 - Vous : parle moi du niger ?
+2025-04-08 01:34:50 - Bot : La capitale du Niger est Niamey, située sur les rives du fleuve Niger.
+
+2025-04-08 01:38:05 - Vous : parle moi de l'islam
+2025-04-08 01:38:05 - Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+2025-04-08 01:38:24 - Vous : qu'est ce que l'islam
+2025-04-08 01:38:24 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:39:06 - Vous : qu'est ce que l'islam ?
+2025-04-08 01:39:06 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:39:23 - Vous : comment ça va 
+2025-04-08 01:39:23 - Bot : Toujours en forme pour discuter !
+
+2025-04-08 01:39:28 - Vous : bonjour
+2025-04-08 01:39:28 - Bot : Bonjour !
+
+2025-04-08 01:45:28 - Vous : qu'est-ce que le réchauffement climatique
+2025-04-08 01:45:28 - Bot : Une hausse progressive de la température de la planète.
+
+2025-04-08 01:45:48 - Vous : qu'est ce que le Togo
+2025-04-08 01:45:48 - Bot : Le Togo est un pays d’Afrique de l’Ouest situé entre le Ghana et le Bénin, avec une façade sur l’océan Atlantique.
+
+2025-04-08 01:46:22 - Vous : qu'est ce que l'islam
+2025-04-08 01:46:22 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:47:26 - Vous : qu'est-ce que l'islam
+2025-04-08 01:47:26 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:47:40 - Vous : qu'est-ce que le tawhid
+2025-04-08 01:47:40 - Bot : Le Tawhid est l’unicité d’Allah dans sa seigneurie, ses noms et attributs, et son droit exclusif d’être adoré.
+
+2025-04-08 01:50:53 - Vous : bonjour
+2025-04-08 01:50:53 - Bot : Bonjour !
+
+2025-04-08 01:51:08 - Vous : bonjour
+2025-04-08 01:51:08 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 01:51:18 - Vous : qui est tu
+2025-04-08 01:51:18 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-08 01:55:17 - Vous : bonjour
+2025-04-08 01:55:17 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 01:55:33 - Vous : comment ça va 
+2025-04-08 01:55:33 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-08 01:56:02 - Vous : qu'est ce que l'AES
+2025-04-08 01:56:02 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 01:57:16 - Vous : qu'est-ce que Python
+2025-04-08 01:57:16 - Bot : Python est un langage de programmation facile à apprendre, utilisé en développement web, en data science, en IA, etc.
+
+2025-04-08 01:57:50 - Vous : qu'est-ce que le sql
+2025-04-08 01:57:50 - Bot : Le SQL est un langage utilisé pour interagir avec les bases de données relationnelles.
+
+2025-04-08 10:53:34 - Vous : bonjour
+2025-04-08 10:53:34 - Bot : Bonjour !
+
+2025-04-08 10:53:48 - Vous : bonjour
+2025-04-08 10:53:48 - Bot : Bonjour !
+
+2025-04-08 10:53:55 - Vous : comment ça va 
+2025-04-08 10:53:55 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-08 10:54:06 - Vous : bonjour
+2025-04-08 10:54:06 - Bot : Bonjour !
+
+2025-04-08 10:54:11 - Vous : comment ça va 
+2025-04-08 10:54:11 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-08 10:56:14 - Vous : langue parlées au TOGO
+2025-04-08 10:56:14 - Bot : Le français est la langue officielle, mais l’éwé, le kabyè et d'autres langues locales sont couramment parlées.
+
+2025-04-08 10:56:28 - Vous : ET AU NIGER ?
+2025-04-08 10:56:28 - Bot : L'islam est la religion majoritaire au Niger, pratiquée par environ 98% de la population.
+
+2025-04-08 10:56:51 - Vous : parle moi de l'informatique
+2025-04-08 10:56:51 - Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+2025-04-08 10:57:03 - Vous : informatique
+2025-04-08 10:57:03 - Bot : Un virus informatique est un programme malveillant qui s'installe sur un ordinateur sans le consentement de l'utilisateur et peut endommager des fichiers ou voler des informations.
+
+2025-04-08 11:01:20 - Vous : qui est tu
+2025-04-08 11:01:20 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-08 11:01:27 - Vous : qui est tu
+2025-04-08 11:01:27 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-08 11:01:37 - Vous : bonjour
+2025-04-08 11:01:37 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 11:01:58 - Vous : qui est tu
+2025-04-08 11:01:58 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-08 11:02:09 - Vous : parle moi de toi
+2025-04-08 11:02:09 - Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+2025-04-08 11:02:24 - Vous : qui est pythagore
+2025-04-08 11:02:24 - Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+2025-04-08 11:02:37 - Vous : parle moi des mathématiques
+2025-04-08 11:02:37 - Bot : Une théorie qui modélise les particules comme des cordes vibrantes.
+
+2025-04-08 11:02:55 - Vous : qu'est ce que l'islam
+2025-04-08 11:02:55 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 11:47:35 - Vous : bonjour
+2025-04-08 11:47:35 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 11:47:55 - Vous : bonjour
+2025-04-08 11:47:55 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 11:48:06 - Vous : comment ça va 
+2025-04-08 11:48:06 - Bot : Je vais bien, merci ! Et toi ?
+

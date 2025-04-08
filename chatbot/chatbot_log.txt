@@ -1,0 +1,24 @@
+Vous : qui est tu
+Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+Vous : parle moi de toi
+Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+Vous : qui est pythagore
+Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+Vous : parle moi des mathématiques
+Bot : Une théorie qui modélise les particules comme des cordes vibrantes.
+
+Vous : qu'est ce que l'islam
+Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+Vous : bonjour
+Bot : Salut ! Comment puis-je t'aider ?
+
+Vous : bonjour
+Bot : Salut ! Comment puis-je t'aider ?
+
+Vous : comment ça va 
+Bot : Je vais bien, merci ! Et toi ?
+
