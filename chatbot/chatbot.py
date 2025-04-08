@@ -65,15 +65,15 @@ if submit_button and user_input.strip():
     response = bot.get_response(user_input)
 
     # Ajout à l'historique
-    st.session_state.history.append(("Vous", user_input))
-    st.session_state.history.append(("Bot", response))
+    st.session_state.history.append(("Vous", user_input))  # D'abord la question de l'utilisateur
+    st.session_state.history.append(("Bot", response))  # Ensuite la réponse du bot
 
     # Sauvegarde
     logger.log_message(user_input, response)
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(f"Vous : {user_input}\nBot : {response}\n\n")
 
-    # 🔊 Lecture audio
+    # 🔊 Lecture audio après l'affichage de la réponse
     if enable_tts:
         voice.speak(response)
 

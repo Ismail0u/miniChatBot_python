@@ -331,3 +331,81 @@
 2025-04-08 11:48:06 - Vous : comment ça va 
 2025-04-08 11:48:06 - Bot : Je vais bien, merci ! Et toi ?
 
+2025-04-08 14:47:31 - Vous : bonjour
+2025-04-08 14:47:31 - Bot : Bonjour !
+
+2025-04-08 14:47:46 - Vous : qu'est ce l'islam
+2025-04-08 14:47:46 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-08 14:47:57 - Vous : comment ça va 
+2025-04-08 14:47:57 - Bot : Toujours en forme pour discuter !
+
+2025-04-08 14:48:06 - Vous : quest ce que l'islam
+2025-04-08 14:48:06 - Bot : Le Niger est un pays enclavé d'Afrique de l'Ouest, connu pour son désert du Sahara, sa culture sahélienne et ses ressources en uranium.
+
+2025-04-08 14:48:18 - Vous : qu'est ce que le coran
+2025-04-08 14:48:18 - Bot : Le Coran est le livre sacré de l’islam, révélé par Allah au prophète Muhammad (PSL) à travers l’ange Jibril.
+
+2025-04-08 14:48:27 - Vous : qui est tu ?
+2025-04-08 14:48:27 - Bot : Je peux discuter avec toi et répondre à tes questions simples.
+
+2025-04-08 14:48:47 - Vous : c'est quoi l'informatique 
+2025-04-08 14:48:47 - Bot : Peux-tu reformuler ?
+
+2025-04-08 16:59:59 - Vous : bonjour
+2025-04-08 16:59:59 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 17:43:41 - Vous : bonjour
+2025-04-08 17:43:41 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 17:59:13 - Vous : bonjour
+2025-04-08 17:59:13 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 18:01:01 - Vous : comment ça va 
+2025-04-08 18:01:01 - Bot : Toujours en forme pour discuter !
+
+2025-04-08 18:02:31 - Vous : parle moi du niger
+2025-04-08 18:02:31 - Bot : La capitale du Niger est Niamey, située sur les rives du fleuve Niger.
+
+2025-04-08 18:02:48 - Vous : parle moi de l'islam
+2025-04-08 18:02:48 - Bot : Le théorème de Pythagore affirme que dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.
+
+2025-04-08 18:02:59 - Vous : parle moi du togo
+2025-04-08 18:02:59 - Bot : La capitale du Togo est Lomé.
+
+2025-04-08 18:03:08 - Vous : togo
+2025-04-08 18:03:08 - Bot : Le Togo est un pays d’Afrique de l’Ouest situé entre le Ghana et le Bénin, avec une façade sur l’océan Atlantique.
+
+2025-04-08 18:14:33 - Vous : bonjour
+2025-04-08 18:14:33 - Bot : Salut ! Comment puis-je t'aider ?
+
+2025-04-08 18:15:03 - Vous : bonjour
+2025-04-08 18:15:03 - Bot : Bonjour !
+
+2025-04-08 18:15:26 - Vous : comment ça va 
+2025-04-08 18:15:26 - Bot : Je vais bien, merci ! Et toi ?
+
+2025-04-08 18:15:41 - Vous : qu'est ce que le tawhid 
+2025-04-08 18:15:41 - Bot : Le Tawhid est l’unicité d’Allah dans sa seigneurie, ses noms et attributs, et son droit exclusif d’être adoré.
+
+2025-04-08 18:16:00 - Vous : togo
+2025-04-08 18:16:00 - Bot : Le Togo est un pays d’Afrique de l’Ouest situé entre le Ghana et le Bénin, avec une façade sur l’océan Atlantique.
+
+2025-04-08 18:16:16 - Vous : mali
+2025-04-08 18:16:16 - Bot : Je ne sais pas répondre à ça.
+
+2025-04-08 18:16:28 - Vous : ISLAM
+2025-04-08 18:16:28 - Bot : L’islam est une religion monothéiste révélée au prophète Muhammad (PSL) au 7e siècle, fondée sur le Coran et les enseignements du prophète.
+
+2025-04-08 18:17:03 - Vous : merci
+2025-04-08 18:17:03 - Bot : Désolé, je ne comprends pas.
+
+2025-04-08 18:17:12 - Vous : au revoir
+2025-04-08 18:17:12 - Bot : À bientôt !
+
+2025-04-08 18:24:52 - Vous : bonjour
+2025-04-08 18:24:52 - Bot : Bonjour !
+
+2025-04-08 18:25:03 - Vous : comment ça va 
+2025-04-08 18:25:03 - Bot : Toujours en forme pour discuter !
+
