@@ -10,7 +10,7 @@ logger = ChatbotUtils()
 voice = VoiceHelper()
 log_file = "chatbot_log.txt"
 
-st.set_page_config(page_title="🤖 Chatbot Python", layout="centered")
+st.set_page_config(page_title="🤖 NiBot", layout="centered")
 
 # 💅 Style CSS pour réduire les tailles
 st.markdown("""
@@ -28,7 +28,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🤖 Chatbot Python")
+st.title("🤖 NiBot")
 st.markdown("_Pose-moi une question !_")
 
 # 🌐 Options
