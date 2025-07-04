@@ -3,6 +3,22 @@ from chatbot_logic import Chatbot
 from chatbot_utils import ChatbotUtils
 from chatbot_voice import VoiceHelper
 import os
+import nltk # <--- AJOUTE CETTE LIGNE
+
+# --- TÉLÉCHARGEMENT DES DONNÉES NLTK NÉCESSAIRES ---
+# Ces lignes vont s'exécuter à chaque démarrage de l'application sur Render.
+# Elles ne téléchargeront les données que si elles ne sont pas déjà présentes.
+try:
+    nltk.data.find('tokenizers/punkt') # 'punkt' est souvent une dépendance implicite
+except LookupError:
+    nltk.download('punkt')
+
+try:
+    nltk.data.find('tokenizers/punkt_tab') # La ressource spécifique manquante
+except LookupError:
+    nltk.download('punkt_tab')
+# --- FIN DU TÉLÉCHARGEMENT NLTK ---
+
 
 # Initialisation
 bot = Chatbot()
